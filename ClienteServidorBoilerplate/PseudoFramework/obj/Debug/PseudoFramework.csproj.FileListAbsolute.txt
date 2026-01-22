@@ -1,0 +1,6 @@
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\PseudoFramework\bin\Debug\PseudoFramework.dll
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\PseudoFramework\bin\Debug\PseudoFramework.pdb
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.csprojAssemblyReference.cache
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.csproj.CoreCompileInputs.cache
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.dll
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.pdb

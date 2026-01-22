@@ -1,0 +1,10 @@
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\Cliente\bin\Debug\Cliente.exe
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\Cliente\bin\Debug\Cliente.pdb
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\Cliente\bin\Debug\PseudoFramework.dll
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\Cliente\bin\Debug\PseudoFramework.pdb
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\Cliente\obj\Debug\Cliente.exe
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\ClienteServidorBoilerplate\Cliente\obj\Debug\Cliente.pdb
