@@ -1,0 +1,10 @@
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\01-cliente-servidor-boilerplate-v3\ClienteServidorBoilerplate\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\01-cliente-servidor-boilerplate-v3\ClienteServidorBoilerplate\Servidor\bin\Debug\Servidor.exe
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\01-cliente-servidor-boilerplate-v3\ClienteServidorBoilerplate\Servidor\bin\Debug\Servidor.pdb
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\01-cliente-servidor-boilerplate-v3\ClienteServidorBoilerplate\Servidor\bin\Debug\PseudoFramework.dll
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\01-cliente-servidor-boilerplate-v3\ClienteServidorBoilerplate\Servidor\bin\Debug\PseudoFramework.pdb
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\01-cliente-servidor-boilerplate-v3\ClienteServidorBoilerplate\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\01-cliente-servidor-boilerplate-v3\ClienteServidorBoilerplate\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\01-cliente-servidor-boilerplate-v3\ClienteServidorBoilerplate\Servidor\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\01-cliente-servidor-boilerplate-v3\ClienteServidorBoilerplate\Servidor\obj\Debug\Servidor.exe
+C:\Users\B43832\OneDrive - Banrisul S.A\Área de Trabalho\01-cliente-servidor-boilerplate-v3\ClienteServidorBoilerplate\Servidor\obj\Debug\Servidor.pdb
